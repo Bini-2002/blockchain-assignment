@@ -1,7 +1,9 @@
 
 # Yonas - Solidity Learning Track
 
-![Banner](module-2/mod.png)
+<p align="center">
+	<img src="module-2/mod.png" alt="Yonas module banner" width="100%" />
+</p>
 
 This folder contains my hands-on Solidity practice for the blockchain assignment. The work is split into four modules, each broken into small parts so it is easy to study, test, and review.
 
